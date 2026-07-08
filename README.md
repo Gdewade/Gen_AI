@@ -52,10 +52,11 @@ The goal of this repository is to build a strong foundation in Generative AI con
     git clone https://github.com/GDewade/Gen_AI.git
 
 3. Install dependencies:
+   ```bash
     pip install -r requirements.txt
    
-4. Create a .env file and add your API keys:
-    OPENAI_API_KEY=your_api_key_here
+5. Create a .env file and add your API keys:
+    OPENAI_API_KEY = your_api_key_here
 
 ## Author
 
