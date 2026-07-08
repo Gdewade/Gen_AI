@@ -1,0 +1,16 @@
+{
+    "name": null,
+    "input_variables": [
+        "lines",
+        "subject"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "Write a poem about {subject} with {lines} lines",
+    "template_format": "f-string",
+    "validate_template": false,
+    "_type": "prompt"
+}
