@@ -29,6 +29,7 @@ This repository contains my Generative AI learning journey and hands-on practice
 
 ## Repository Structure
 
+```text
 GEN_AI/
 │
 ├── Chains/
@@ -37,6 +38,7 @@ GEN_AI/
 ├── Structured_output/
 ├── requirements.txt
 └── README.md
+```
 
 
 ## Purpose
@@ -46,9 +48,10 @@ The goal of this repository is to build a strong foundation in Generative AI con
 ## Setup
 
 1. Clone the repository:
+   ```bash
     git clone https://github.com/GDewade/Gen_AI.git
 
-2. Install dependencies:
+3. Install dependencies:
     pip install -r requirements.txt
    
 4. Create a .env file and add your API keys:
